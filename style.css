@@ -1,0 +1,77 @@
+html, body
+{
+   height: 100%;
+   margin: 0;
+}
+
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+ 
+.bedroom
+{
+    font-size: 25px;
+    font-weight: bold;
+    font-variant: small-caps;
+    width: 65%;
+    color: aliceblue;
+}
+
+.tv_ac
+{
+    font-size: 25px;
+    font-weight: bold;
+    font-variant: small-caps;
+    width: 65%;
+    color: aliceblue;
+}
+
+.desk
+{
+    font-size: 25px;
+    font-weight: bold;
+    font-variant: small-caps;
+    width: 65%;
+    color: aliceblue;
+}
+
+.bottles
+{
+    font-size: 25px;
+    font-weight: bold;
+    font-variant: small-caps;
+    width: 65%;
+    color: aliceblue;
+}
+
+.fruit_basket
+{
+    font-size: 25px;
+    font-weight: bold;
+    font-variant: small-caps;
+    width: 65%;
+    color: aliceblue;
+}
+
+.heading
+{
+    font-size: 35px;
+    width: 100%;
+    font-weight: bolder;
+    font-variant: small-caps;
+    color: aliceblue;
+}
+
+.div_copy_right_footer
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: aliceblue;
+    width: 100%;
+    background-color: rgb(0, 110, 255);
+    bottom: 0px;
+    position: fixed;
+}
